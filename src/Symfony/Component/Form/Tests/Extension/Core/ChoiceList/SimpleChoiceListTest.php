@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Form\Tests\Extension\Core\ChoiceList;
 
-use Symfony\Component\Form\Extension\Core\ChoiceList\ChoiceList;
 use Symfony\Component\Form\Extension\Core\ChoiceList\SimpleChoiceList;
 use Symfony\Component\Form\Extension\Core\View\ChoiceView;
 

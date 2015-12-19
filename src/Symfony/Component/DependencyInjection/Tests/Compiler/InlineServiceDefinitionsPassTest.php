@@ -15,7 +15,6 @@ use Symfony\Component\DependencyInjection\Scope;
 
 use Symfony\Component\DependencyInjection\Definition;
 use Symfony\Component\DependencyInjection\Compiler\AnalyzeServiceReferencesPass;
-use Symfony\Component\DependencyInjection\Compiler\Compiler;
 use Symfony\Component\DependencyInjection\Compiler\RepeatedPass;
 use Symfony\Component\DependencyInjection\Compiler\InlineServiceDefinitionsPass;
 use Symfony\Component\DependencyInjection\Reference;

@@ -11,7 +11,6 @@
 
 namespace Symfony\Bundle\FrameworkBundle\Tests\Controller;
 
-use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\ParameterBag;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\RedirectController;

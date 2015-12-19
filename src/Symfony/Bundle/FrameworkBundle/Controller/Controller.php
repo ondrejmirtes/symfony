@@ -16,7 +16,6 @@ use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 use Symfony\Component\DependencyInjection\ContainerAware;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Symfony\Component\Form\FormTypeInterface;
 use Symfony\Component\Form\Form;
 use Symfony\Component\Form\FormBuilder;
 use Doctrine\Bundle\DoctrineBundle\Registry;

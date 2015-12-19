@@ -12,7 +12,6 @@
 namespace Symfony\Component\Security\Tests\Core\Authentication\Provider;
 
 use Symfony\Component\Security\Core\Authentication\Provider\RememberMeAuthenticationProvider;
-use Symfony\Component\Security\Core\Authentication\Token\RememberMeToken;
 use Symfony\Component\Security\Core\Role\Role;
 
 class RememberMeAuthenticationProviderTest extends \PHPUnit_Framework_TestCase

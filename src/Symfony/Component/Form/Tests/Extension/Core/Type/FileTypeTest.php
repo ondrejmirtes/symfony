@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Form\Tests\Extension\Core\Type;
 
-use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 class FileTypeTest extends TypeTestCase
 {

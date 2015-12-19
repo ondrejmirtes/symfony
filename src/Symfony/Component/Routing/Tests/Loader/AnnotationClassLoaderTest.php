@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Routing\Tests\Loader;
 
-use Symfony\Component\Routing\Loader\AnnotationClassLoader;
 
 class AnnotationClassLoaderTest extends AbstractAnnotationLoaderTest
 {

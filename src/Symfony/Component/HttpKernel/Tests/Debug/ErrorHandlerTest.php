@@ -12,7 +12,6 @@
 namespace Symfony\Component\HttpKernel\Tests\Debug;
 
 use Symfony\Component\HttpKernel\Debug\ErrorHandler;
-use Symfony\Component\HttpKernel\Debug\ErrorException;
 
 /**
  * ErrorHandlerTest

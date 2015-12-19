@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Locale\Tests\Stub;
 
-use Symfony\Component\Locale\Locale;
 use Symfony\Component\Locale\Stub\StubIntl;
 use Symfony\Component\Locale\Stub\StubIntlDateFormatter;
 use Symfony\Component\Locale\Tests\TestCase as LocaleTestCase;

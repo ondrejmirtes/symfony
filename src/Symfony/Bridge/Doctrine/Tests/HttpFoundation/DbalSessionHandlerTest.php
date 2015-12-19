@@ -11,7 +11,6 @@
 
 namespace Symfony\Bridge\Doctrine\Tests\HttpFoundation;
 
-use Symfony\Bridge\Doctrine\HttpFoundation\DbalSessionHandler;
 
 /**
  * Test class for DbalSessionHandler.

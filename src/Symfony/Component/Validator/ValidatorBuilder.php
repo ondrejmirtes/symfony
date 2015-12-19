@@ -13,7 +13,6 @@ namespace Symfony\Component\Validator;
 
 use Symfony\Component\Validator\Mapping\ClassMetadataFactory;
 use Symfony\Component\Validator\Exception\ValidatorException;
-use Symfony\Component\Validator\Mapping\BlackholeMetadataFactory;
 use Symfony\Component\Validator\Mapping\Loader\LoaderChain;
 use Symfony\Component\Validator\Mapping\ClassMetadataFactoryInterface;
 use Symfony\Component\Validator\Mapping\Cache\CacheInterface;

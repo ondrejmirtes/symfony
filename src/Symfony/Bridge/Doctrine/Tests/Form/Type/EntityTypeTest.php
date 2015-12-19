@@ -11,7 +11,6 @@
 
 namespace Symfony\Bridge\Doctrine\Tests\Form\Type;
 
-use Symfony\Component\Form\Exception\UnexpectedTypeException;
 use Symfony\Component\Form\Tests\Extension\Core\Type\TypeTestCase;
 use Symfony\Bridge\Doctrine\Tests\DoctrineOrmTestCase;
 use Symfony\Bridge\Doctrine\Tests\Fixtures\ItemGroupEntity;

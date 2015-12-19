@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Yaml\Tests;
 
-use Symfony\Component\Yaml\Yaml;
 use Symfony\Component\Yaml\Inline;
 
 class InlineTest extends \PHPUnit_Framework_TestCase

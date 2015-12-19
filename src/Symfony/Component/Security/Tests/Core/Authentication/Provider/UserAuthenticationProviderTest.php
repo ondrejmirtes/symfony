@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Security\Tests\Core\Authentication\Provider;
 
-use Symfony\Component\Security\Core\Authentication\Provider\UserAuthenticationProvider;
 use Symfony\Component\Security\Core\Role\Role;
 use Symfony\Component\Security\Core\Exception\BadCredentialsException;
 

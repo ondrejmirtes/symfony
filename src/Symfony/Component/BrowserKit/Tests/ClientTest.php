@@ -14,7 +14,6 @@ namespace Symfony\Component\Tests\BrowserKit;
 use Symfony\Component\BrowserKit\Client;
 use Symfony\Component\BrowserKit\History;
 use Symfony\Component\BrowserKit\CookieJar;
-use Symfony\Component\BrowserKit\Request;
 use Symfony\Component\BrowserKit\Response;
 
 class TestClient extends Client

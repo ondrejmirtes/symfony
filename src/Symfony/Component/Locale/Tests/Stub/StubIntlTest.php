@@ -13,7 +13,6 @@ namespace Symfony\Tests\Component\Locale\Stub;
 
 require_once __DIR__.'/../TestCase.php';
 
-use Symfony\Component\Locale\Locale;
 use Symfony\Component\Locale\Stub\StubIntl;
 use Symfony\Component\Locale\Tests\TestCase as LocaleTestCase;
 

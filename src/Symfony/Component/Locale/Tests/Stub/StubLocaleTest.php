@@ -11,7 +11,6 @@
 
 namespace Symfony\Component\Locale\Tests\Stub;
 
-use Symfony\Component\Locale\Locale;
 use Symfony\Component\Locale\Stub\StubLocale;
 use Symfony\Component\Locale\Tests\TestCase as LocaleTestCase;
 
